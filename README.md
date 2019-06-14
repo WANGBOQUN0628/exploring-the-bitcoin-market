@@ -1,5 +1,5 @@
 # exploring-the-bitcoin-market
-This is a project on [DataCamp](http://www.datacamp.com/)
+### Project Description
 
 To better understand the growth and impact of Bitcoin and other [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency) you will, in this project, explore the market capitalization of different cryptocurrencies.
 
